@@ -1,178 +1,178 @@
-// // Section 1
-// //  Printing & User Interaction
-// // 1.
+// Section 1
 
-// let nam = "kishor";
-// let designation = "associate software engineer";
+// 1.
 
-// console.log(nam);
-// console.log(designation);
+let nam = "kishor";
+let designation = "associate software engineer";
 
-// // 2
+console.log(nam);
+console.log(designation);
 
-// alert("welcome to javascript class");
+// 2
 
-// // 3
+alert("welcome to javascript class");
 
-// let userwish = confirm("do you like coding");
+// 3
 
-// console.log(userwish);
+let userwish = confirm("do you like coding");
 
-// // 4
+console.log(userwish);
 
-// let food = prompt("what is your favorite food");
-// console.log(food);
+// 4
 
-// // 5
+let food = prompt("what is your favorite food");
+console.log(food);
 
-// document.writeln("good morning team");
+// 5
 
-// console.clear();
+document.writeln("good morning team");
 
-// // Section 2
+console.clear();
 
-// // 6
+// Section 2
 
-// let a =50;
+// 6
+
+let a =50;
  
-// console.log(a);
+console.log(a);
 
-// // 7
+// 7
 
-// console.warn("this is a warning");
+console.warn("this is a warning");
 
-// // 8
+// 8
 
-// console.error("Something went rong")
+console.error("Something went rong")
 
-// // 9
+// 9
 
-// console.clear();
+console.clear();
 
-// // Section 3
+// Section 3
 
-// // 10
+// 10
 
-// let myname="kumar"
+let myname="kumar"
 
-// console.log(myname);
-// console.log(typeof(myname));
+console.log(myname);
+console.log(typeof(myname));
 
-// // 11
+// 11
 
-// let myage = 25;
+let myage = 25;
 
-// console.log(typeof(myage));
+console.log(typeof(myage));
 
-// // 12
+// 12
 
-// let boo = false;
+let boo = false;
 
-// console.log(typeof(boo));
+console.log(typeof(boo));
 
-// // 13
+// 13
 
-// let c;
+let c;
 
-// console.log(c);
+console.log(c);
 
-// // 14
+// 14
 
-// let d = prompt();
+let d = prompt();
 
-// console.log(d)
+console.log(d)
 
-// // 15
+// 15
 
-// let fruits = ["apple","banana","kiwi","mango","cherry"];
+let fruits = ["apple","banana","kiwi","mango","cherry"];
 
-// console.log(fruits);
+console.log(fruits);
 
-// // 16
+// 16
 
-// let fruit = ["apple","banana","kiwi","mango","cherry"];
+let fruit = ["apple","banana","kiwi","mango","cherry"];
 
-// console.log(fruit[0]);
-// console.log(fruit[4]);
+console.log(fruit[0]);
+console.log(fruit[4]);
 
-// // 17
+// 17
 
-// let addfruit = prompt("add the fruit");
+let addfruit = prompt("add the fruit");
 
-// fruit.push(addfruit);
+fruit.push(addfruit);
 
-// console.log(fruit);
+console.log(fruit);
 
-// // 18
+// 18
 
-// fruit.pop()
+fruit.pop()
 
-// console.log(fruit);
+console.log(fruit);
 
-// // 19
+// 19
 
-// console.log(fruit.length);
+console.log(fruit.length);
 
-// // section 5
+// section 5
 
-// // 20
+// 20
 
-// let student = {
-//     Name : "kishor",
-//     age :25,
-//     course : "Full stack web development"
+let student = {
+    Name : "kishor",
+    age :25,
+    course : "Full stack web development"
 
-// }
+}
 
-// // 21
+// 21
 
-// console.log(student.Name);
+console.log(student.Name);
 
-// // 22
+// 22
 
-// student.college = "Anna university";
+student.college = "Anna university";
 
-// // 23
+// 23
 
-// console.log(student);
-// console.log(student.Name);
-// console.log(student.age);
-// console.log(student.course);
+console.log(student);
+console.log(student.Name);
+console.log(student.age);
+console.log(student.course);
 
-// // 24
+// 24
 
-// student.age = 26;
+student.age = 26;
 
-// console.log(student.age);
+console.log(student.age);
 
-// // Section 6
+// Section 6
 
-// // 25
+// 25
 
-// var x=10;
-// var y=10;
+var x=10;
+var y=10;
 
-// console.log(x+y);
+console.log(x+y);
 
-// // 26
+// 26
 
-// console.log(x-y);
+console.log(x-y);
 
-// // 27
+// 27
 
-// console.log(x*y);
+console.log(x*y);
 
-// // 28
+// 28
 
-// console.log(x/y);
+console.log(x/y);
 
-// // 29
+// 29
 
-// console.log(x%y);
+console.log(x%y);
 
-// // 30
+// 30
 
-// console.log(3**2);
+console.log(3**2);
 
 // Section 7
 
